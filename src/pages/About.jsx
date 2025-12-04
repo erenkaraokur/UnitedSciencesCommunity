@@ -26,14 +26,7 @@ const teamMembers = [
     phone: '+90 555 000 00 02',
     email: 'muhammet@usc.com'
   },
-  {
-    id: 4,
-    name: 'Hüseyin Arda Tulasoğlu',
-    role: 'Ekip Üyesi',
-    intro: 'Proje yönetimi ve stratejik planlama alanında deneyimli ekip lideri.',
-    phone: '+90 555 000 00 03',
-    email: 'huseyin@usc.com'
-  }
+
 ]
 
 export default function About() {
